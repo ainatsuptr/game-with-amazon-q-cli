@@ -1,0 +1,16 @@
+This directory is for game sounds.
+
+Required sound files:
+1. title_bgm.mp3 - Title screen background music
+2. map_bgm.mp3 - Map screen background music
+3. battle_bgm.mp3 - Battle background music
+4. victory_bgm.mp3 - Victory music
+5. defeat_bgm.mp3 - Defeat music
+6. ending_bgm.mp3 - Ending music
+7. button_click.wav - Button click sound effect
+8. attack.wav - Attack sound effect
+9. damage.wav - Damage sound effect
+10. item_use.wav - Item use sound effect
+11. level_up.wav - Level up sound effect
+
+You can create these sound files using audio tools or find suitable free-to-use sound effects.

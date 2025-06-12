@@ -1,0 +1,27 @@
+This directory is for game images.
+
+Required images:
+1. title_bg.png - Title screen background
+2. name_input_bg.png - Name input screen background
+3. prologue_bg.png - Prologue screen background
+4. map_bg.png - Map screen background
+5. event_bg.png - Event screen background
+6. battle_s3守護者_bg.png - S3 guardian battle background
+7. battle_ec2守護者_bg.png - EC2 guardian battle background
+8. battle_lambda守護者_bg.png - Lambda guardian battle background
+9. battle_dynamodb守護者_bg.png - DynamoDB guardian battle background
+10. battle_cloudfront守護者_bg.png - CloudFront guardian battle background
+11. battle_iam守護者_bg.png - IAM guardian battle background
+12. battle_sqs守護者_bg.png - SQS guardian battle background
+13. result_bg.png - Battle result screen background
+14. game_over_bg.png - Game over screen background
+15. ending_bg.png - Ending screen background
+16. s3守護者.png - S3 guardian character
+17. ec2守護者.png - EC2 guardian character
+18. lambda守護者.png - Lambda guardian character
+19. dynamodb守護者.png - DynamoDB guardian character
+20. cloudfront守護者.png - CloudFront guardian character
+21. iam守護者.png - IAM guardian character
+22. sqs守護者.png - SQS guardian character
+
+You can create these images using graphic design tools or find suitable free-to-use images.
